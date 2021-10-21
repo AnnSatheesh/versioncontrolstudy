@@ -1,9 +1,9 @@
 var Greeter = /** @class */ (function () {
     function Greeter() {
-        this.greeting = "World";
+        this.greeting = "universe";
     }
     Greeter.prototype.greet = function () {
-        return "Hello, " +
+        return "Hello guys, " +
             this.greeting;
     };
     return Greeter;
